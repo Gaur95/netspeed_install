@@ -17,3 +17,4 @@ now enable netspeed in gnome-extansions manager
 sudo apt install gnome-tweaks
 sudo apt install gnome-shell-extensions
 ```
+<img src="Screenshot from 2024-08-26 12-12-37.png">
