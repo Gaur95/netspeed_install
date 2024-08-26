@@ -12,3 +12,8 @@ sudo apt install gettext make
   762  reboot
 now enable netspeed in gnome-extansions manager
 ```
+### install gnome-extensions
+```
+sudo apt install gnome-tweaks
+sudo apt install gnome-shell-extensions
+```
